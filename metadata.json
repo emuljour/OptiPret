@@ -1,0 +1,6 @@
+{
+  "name": "OptiPrêt - Simulateur & Tableau d'Amortissement Prêt Immobilier",
+  "description": "Simulateur d'aide à la décision pour calculer l'impact d'une sur-mensualité sur votre crédit immobilier : gain de temps, intérêts économisés et tableau d'amortissement détaillé.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
